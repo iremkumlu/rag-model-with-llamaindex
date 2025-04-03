@@ -1,0 +1,8 @@
+llama-index
+groq-api
+chromadb
+numpy
+scikit-learn
+nest_asyncio
+llama-index-llms-groq
+llama-index-embeddings-huggingface
